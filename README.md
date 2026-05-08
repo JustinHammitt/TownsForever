@@ -1,3 +1,5 @@
+Archived: Please see https://github.com/Open-Towns/Open-Towns for any future updates and progress!
+
 # Towns Forever Baby!!!!
 
 Modernized community source release for Towns.
